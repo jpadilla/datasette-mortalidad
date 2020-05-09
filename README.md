@@ -2,7 +2,7 @@
 
 ```
 # Installing
-$ python -m mortalidad ./.venv
+$ python -m venv --prompt mortalidad ./.venv
 $ source ./.venv/bin/activate
 $ pip install -r requirements.txt
 
