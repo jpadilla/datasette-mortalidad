@@ -9,10 +9,10 @@
     "mortalidad": {
       "tables": {
         "2007-2014": {
-          "description_html": "Se removieron las siguientes columnas: <em>informad</em>, <em>dadress</em>"
+          "description_html": "Se removieron columnas con nombres y direcciones."
         },
         "2015-2020": {
-          "description_html": "Se removieron las siguientes columnas: <em>ResidencePlaceAddress1</em>, <em>ResidencePlaceAddress2</em>, <em>InformantAddress1</em>, <em>InformantAddress2</em>, <em>DeathPlaceAddress1</em>, <em>DeathPlaceAddress2</em>, <em>CertifierAddress1</em>, <em>CertifierAddress2</em>, <em>InjuryOccurrenceAddress1</em>, <em>InjuryOccurrenceAddress2</em>."
+          "description_html": "Se removieron columnas con nombres y direcciones."
         }
       }
     }
